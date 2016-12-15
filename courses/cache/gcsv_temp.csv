@@ -1,0 +1,55 @@
+TOPIC,KEY,LANG,WORD
+LEVEL,0,EN,Absolute beginners (no experience)
+LEVEL,1,EN,Beginners (<1y)
+LEVEL,2,EN,Intermediate (1-2y)
+LEVEL,3,EN,Medium Advanced (2-3y)
+LEVEL,4,EN,Advanced (3-5y)
+LEVEL,5,EN,Experts (>5y)
+LEVEL,P,EN,Practica (for pupils)
+TITLE,PC,EN,Zip code
+TITLE,LEVEL,EN,Level
+TITLE,SCHOOL,EN,School
+TITLE,WEEKDAY,EN,Week day
+WEEKDAY,1,EN,Monday
+WEEKDAY,2,EN,Tuesday
+WEEKDAY,3,EN,Wednesday
+WEEKDAY,4,EN,Thursday
+WEEKDAY,5,EN,Friday
+WEEKDAY,6,EN,Saturday
+WEEKDAY,7,EN,Sunday
+LEVEL,0,FR,Débutants absolus (pas d'expérience)
+LEVEL,1,FR,Débutants (< 1 an)
+LEVEL,2,FR,Intermédiaire (1-2 ans)
+LEVEL,3,FR,Intermédiaire avancé (2-3 ans)
+LEVEL,4,FR,Avancé (3-5 ans)
+LEVEL,5,FR,Experts (> 5 ans)
+LEVEL,P,FR,Practica (pour élèves)
+TITLE,PC,FR,Code postale
+TITLE,LEVEL,FR,Niveau
+TITLE,SCHOOL,FR,Ecole
+TITLE,WEEKDAY,FR,Journée
+WEEKDAY,1,FR,lundi
+WEEKDAY,2,FR,mardi
+WEEKDAY,3,FR,mercredi
+WEEKDAY,4,FR,jeudi
+WEEKDAY,5,FR,vendredi
+WEEKDAY,6,FR,samedi
+WEEKDAY,7,FR,dimanche
+LEVEL,0,NL,Absolute beginners (geen ervaring)
+LEVEL,1,NL,Beginners (<1j)
+LEVEL,2,NL,Intermediate (1-2j)
+LEVEL,3,NL,Medium Advanced (2-3j)
+LEVEL,4,NL,Gevorderd (3-5j)
+LEVEL,5,NL,Experts (>5j)
+LEVEL,P,NL,Practica (voor leerlingen)
+TITLE,PC,NL,Postcode
+TITLE,LEVEL,NL,Niveau
+TITLE,SCHOOL,NL,School
+TITLE,WEEKDAY,NL,Weekdag
+WEEKDAY,1,NL,maandag
+WEEKDAY,2,NL,dinsdag
+WEEKDAY,3,NL,woensdag
+WEEKDAY,4,NL,donderdag
+WEEKDAY,5,NL,vrijdag
+WEEKDAY,6,NL,zaterdag
+WEEKDAY,7,NL,zondag

@@ -1,0 +1,39 @@
+Hello tango teachers of Belgium,
+
+It's that time of the year again:
+
+www.milonga.be is updating its list of tango courses in Belgium.
+
+These are the classes we have now:
+http://agenda.milonga.be/courses/show.php
+
+If you have sent us your classes, please check if eveything seems correct.
+If you have not done it yet, you can do this with the following page:
+http://www.milonga.be/classes/add/
+
+I will then insert them into the {YEAR} directory of classes.
+
+If you have stopped giving lessons, please let me know too.
+
+Regards,
+
+
+----
+
+Chers profs de tango de Belgique,
+
+Ca y est, c'est le moment de mettre a jour la liste des cours de tango sur www.milonga.be
+
+Voici les cours comme ils sont enregistres pour le moment:
+http://agenda.milonga.be/courses/show.php
+
+
+Si vous avez deja donne vos cours, veuillez verifier si tout a l'air correct.
+Vous pouvez rajouter vos cours sur la page
+http://www.milonga.be/classes/add/
+
+Je les inserai dans le repertoire {YEAR}.
+
+Si vous avez arrete de donner des cours, merci de me le communiquer aussi.
+
+Bien a vous,

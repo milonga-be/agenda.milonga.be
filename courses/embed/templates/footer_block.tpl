@@ -1,0 +1,1 @@
+<small>&copy; <a target='_top' href='http://www.milonga.be/classes/'>Tango Classes Overview</a> by <a target='_top' href='http://www.milonga.be/'>www.milonga.be</a> - <a target='_blank' href='http://www.milonga.be/classes/add/'>Add/edit</a></small>

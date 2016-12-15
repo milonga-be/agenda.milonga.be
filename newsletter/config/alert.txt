@@ -1,0 +1,18 @@
+Dear tango organizers,
+
+These are the events listed on the www.milonga.be agenda for the next 2 weeks, and your events are in there too. Please check that all the information (address/hours/contact data) is correct.
+
+REMARK: please don't add weekly classes to the events. If you give a weekly workshop for more than 2 weeks => that is really a weekly class. The place for that is http://www.milonga.be/classes/
+
+An overview of the events for next week: <http://agenda.milonga.be/filter.php?weeks=1>
+{EVENTS}
+
+How to add information to the milonga.be calendar:
+* Get access to the Google Calendar: http://www.milonga.be/dancing/contributing/
+* Put the event directly into the Google Calendar and it will show up 1 hour later on <http://agenda.milonga.be>. To work like this: send me your Gmail address at peter@milonga.be, I will add you to the access list and you can edit directly via <https://www.google.com/calendar/render>. Just respect these minimal instructions: a correct event title (see http://www.milonga.be/dancing/contributing/ ), always a full street address, and at least an email address where you can be contacted. 
+
+
+Thanks for your collaboration,
+
+Boris Verdeyen Pazmiño
+milonga@milonga.be

